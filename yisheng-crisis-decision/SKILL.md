@@ -1,6 +1,13 @@
 ---
 name: yisheng-crisis-decision
 description: 当你遭遇公司突发危机（安全事故、公关灾难、突发坏消息）、需要拍艰难决策、或感觉压力大到快崩、被头衔权力冲昏时使用。帮你分拣事务、稳住团队、用直觉担责。日常可授权的小事不要用。
+slug: yisheng-crisis-decision
+version: 1.0.0
+displayName: 危机决策定力
+summary: 突发危机下如何分拣事务、稳住团队、用直觉担责，并守住压力与权力带来的自我定力。
+tags: 危机管理, 决策, 领导力, 压力管理, 自我管理
+homepage: https://github.com/Dillon-Xue/yisheng-lifetime-skills
+license: MIT
 ---
 
 # 危机中的决策定力

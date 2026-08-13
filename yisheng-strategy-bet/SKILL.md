@@ -1,6 +1,13 @@
 ---
 name: yisheng-strategy-bet
 description: 当你要定公司战略方向、决定要不要下重注并购、判断哪些项目该砍、或推动自我颠覆式转型时使用。给你聚焦三件事、敢下大赌注又守纪律的打法。与战略无关的琐碎排期不要用。
+slug: yisheng-strategy-bet
+version: 1.0.0
+displayName: 战略聚焦与大赌注
+summary: 定战略方向、下重注并购、砍低回报项目、推动自我颠覆式转型，聚焦三件事又守价格纪律。
+tags: 战略, 并购, 聚焦, 自我颠覆, 决策
+homepage: https://github.com/Dillon-Xue/yisheng-lifetime-skills
+license: MIT
 ---
 
 # 战略聚焦与大赌注

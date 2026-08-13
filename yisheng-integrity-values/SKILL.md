@@ -1,6 +1,13 @@
 ---
 name: yisheng-integrity-values
 description: 当你面对价值观与商业利益冲突、要决定能否为利润包庇违规者、或对外对内如何以诚信立身时使用。把诚信当竞争优势而非成本。纯短期交易且不涉及人员品质底线的不要用。
+slug: yisheng-integrity-values
+version: 1.0.0
+displayName: 诚信底线与价值观立身
+summary: 价值观与商业利益冲突时把诚信当竞争优势而非成本，处理违规、以诚信立身。
+tags: 诚信, 价值观, 领导力, 声誉, 合规
+homepage: https://github.com/Dillon-Xue/yisheng-lifetime-skills
+license: MIT
 ---
 
 # 诚信底线与价值观立身

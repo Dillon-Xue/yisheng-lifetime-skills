@@ -1,6 +1,13 @@
 ---
 name: yisheng-talent-team
 description: 当你要招人、提拔、用人、带团队、培养接班人、解雇人或整合并购进来的人才时使用。重点是识人重能力胜过经验、给自主权、保护人才文化。一次性技术任务、不需长期带人的情况不要用。
+slug: yisheng-talent-team
+version: 1.0.0
+displayName: 识人用人与带团队
+summary: 招人提拔、培养接班人、解雇、并购人才整合：重能力胜过经验、给自主权、保护人才文化。
+tags: 人才管理, 团队, 招聘, 接班人, 并购整合
+homepage: https://github.com/Dillon-Xue/yisheng-lifetime-skills
+license: MIT
 ---
 
 # 识人用人与带团队

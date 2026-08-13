@@ -1,6 +1,13 @@
 ---
 name: yisheng-innovation-disrupt
 description: 当你要推动产品技术内容创新、打破行业一直如此的陈旧假设、或需要容忍失败、重塑创新激励时使用。帮你在恐惧与平庸之间做选择。纯流程优化、不需创新突破的常规改进不要用。
+slug: yisheng-innovation-disrupt
+version: 1.0.0
+displayName: 拼死创新与主动颠覆
+summary: 推动产品技术内容创新、打破陈旧假设、容忍失败、重塑创新激励，在恐惧与平庸间做选择。
+tags: 创新, 颠覆, 容忍失败, 激励, 领导力
+homepage: https://github.com/Dillon-Xue/yisheng-lifetime-skills
+license: MIT
 ---
 
 # 拼死创新与主动颠覆
